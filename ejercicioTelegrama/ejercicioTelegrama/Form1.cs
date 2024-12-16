@@ -44,7 +44,6 @@ namespace ejercicioTelegrama
                 }
                 else
                 {
-
                     coste = 2.5 + (0.5 * (palabras.Length - 10));
                 }
             }
